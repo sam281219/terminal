@@ -16,6 +16,8 @@ public class Ejercicio6 {
         System.out.println("Menor nota: "+a.menor());
         System.out.println(a.toString());
         int [] e = a.mejores();
+        //errores corregidos 
+        //resuelto todo
         System.out.println("Mejores notas: ");
         for (int i = 0; i < e.length; i++) {
             System.out.print(e[i]+"\n ");
